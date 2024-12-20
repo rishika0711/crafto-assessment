@@ -37,3 +37,7 @@ React - Frontend library for user interface.
 Axios - For making HTTP requests.
 Styled-components - For writing scoped CSS styles.
 GitHub - For version control and repository management.
+
+
+# deploy link
+https://sparkling-monstera-65a8d6.netlify.app/
